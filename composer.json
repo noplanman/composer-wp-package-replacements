@@ -1,0 +1,23 @@
+{
+    "name": "noplanman/composer-wp-package-replacements",
+    "replace": {
+        "paragonie/random_compat": "*"
+    },
+    "type": "library",
+    "description": "Replace required packages that can't be used with WordPress",
+    "keywords": ["wordpress", "replace", "replacement", "override"],
+    "license": "GPL-2.0",
+    "homepage": "https://github.com/noplanman/composer-wp-package-replacements",
+    "support": {
+        "issues": "https://github.com/noplanman/composer-wp-package-replacements/issues",
+        "source": "https://github.com/noplanman/composer-wp-package-replacements"
+    },
+    "authors": [
+        {
+            "name": "Armando Lüscher",
+            "email": "armando@noplanman.ch",
+            "homepage": "https://noplanman.ch",
+            "role": "Developer"
+        }
+    ]
+}
